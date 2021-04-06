@@ -2,6 +2,10 @@
 * Project Paper [ [Link](https://arxiv.org/abs/2101.06217) ]
 * Project Website  [ [Link](https://sites.google.com/view/apexnetpaper) ]
 
+#### Instruction To Setup Environment
+* Install Anaconda
+* Follow instructions from [here](https://docs.conda.io/projects/conda/en/4.6.1/user-guide/tasks/manage-environments.html) to create an anaconda environment from **environment.yml** file.
+
 #### Instruction To Run Code
 * Run **generate_data.py** to generate dataset.
 * Run **main.py** to start training the model.
