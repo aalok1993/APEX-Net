@@ -12,3 +12,7 @@
 
 #### Important Points
 * Threshold vlaue for valid plot is set to **0.5**.
+
+#### TODO
+- [] Update GUI code
+- [] Code formatting
