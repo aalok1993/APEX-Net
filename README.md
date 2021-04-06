@@ -2,7 +2,7 @@
 * Project Website  [ [Link](https://sites.google.com/view/apexnetpaper) ]
 
 #### Instruction To Run Code
-* Run **generate.py** to generate dataset.
+* Run **generate_data.py** to generate dataset.
 * Run **main.py** to start training the model.
 * After 1000 epochs training ends and to check the model working run **evaluate.py** file.
 
