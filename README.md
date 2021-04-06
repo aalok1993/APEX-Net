@@ -3,6 +3,7 @@
 * Project Website  [ [Link](https://sites.google.com/view/apexnetpaper) ]
 
 #### Instruction To Setup Environment
+* We have used Python 3.7 and Tensorflow 2.3.
 * Install Anaconda
 * Follow instructions from [here](https://docs.conda.io/projects/conda/en/4.6.1/user-guide/tasks/manage-environments.html) to create an anaconda environment from **environment.yml** file.
 
