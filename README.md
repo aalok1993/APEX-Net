@@ -1,4 +1,5 @@
 ### APEX-Net
+* Project Paper [ [Link](https://arxiv.org/abs/2101.06217) ]
 * Project Website  [ [Link](https://sites.google.com/view/apexnetpaper) ]
 
 #### Instruction To Run Code
