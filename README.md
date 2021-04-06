@@ -17,3 +17,17 @@
 #### TODO
 ⚪ Update GUI code <br/>
 :white_circle: Code formatting
+
+#### Citation
+<pre>
+ 
+ @misc{gangopadhyay2021apexnet,
+      title={APEX-Net: Automatic Plot Extractor Network}, 
+      author={Aalok Gangopadhyay and Prajwal Singh and Shanmuganathan Raman},
+      year={2021},
+      eprint={2101.06217},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+ }
+
+</pre>
