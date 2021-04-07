@@ -17,7 +17,7 @@
 * Run **evaluate.py** to check the working.
 
 #### Important Points
-* Threshold vlaue for valid plot is set to **0.5**.
+* Threshold value for valid plot is set to **0.5**.
 
 
 #### Citation
