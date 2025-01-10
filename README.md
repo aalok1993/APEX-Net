@@ -33,7 +33,3 @@
  }
 
 </pre>
-
-#### TODO
-⚪ Update GUI code <br/>
-:white_circle: Code formatting
